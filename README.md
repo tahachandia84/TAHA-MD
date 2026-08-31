@@ -61,8 +61,8 @@
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-<a href="https://github.com/darkzonemd/TAHA-MD/fork">
-  <img title="TAHA-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
+<a href="https://github.com/tahachandia84/TAHA-MD/fork">
+  <img title="TAHA-MD" src="https://img.shields.io/badge/FORK-TAHA%20MD-FF00FF?style=for-the-badge&logo=stackshare">
 </a>
 
 ### 2. 𐃁GET SESSION ID𐃁
@@ -97,11 +97,11 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/darkzonemd/TAHA-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/tahachandia84/TAHA-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
        <td><a href="https://erfan-vps-site-def3a7aba559.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/VPS-SITE-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=darkzonemd/TAHA-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=tahachandia84/TAHA-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/TAHA-MD" target="_blank">
+      <a href="https://github.com/tahachandia84/TAHA-MD" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/Deploy-On%20Workflow-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -133,7 +133,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/TAHA-MD" target="_blank">
+      <a href="https://github.com/tahachandia84/TAHA-MD" target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -143,7 +143,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/TAHA-MD/archive/refs/heads/main.zip" target="_blank">
+      <a href="https://github.com/tahachandia84/TAHA-MD/archive/refs/heads/main.zip" target="_blank">
         <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -174,7 +174,7 @@
 
 ## 📞 Contact & Support
 
-### Project Owner: Erfan Ahmad
+### Project Owner: Taha Khan
 <a href='https://wa.me/+923474771404?text=*HELLO+TAHA+KHAN+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+TAHA-MD+ʀᴇᴘᴏ!!*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
