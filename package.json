@@ -1,23 +1,23 @@
 {
-  "name": "DARKZONE-MD",
+  "name": "TAHA-MD",
   "version": "7.0.0",
-  "description": "A WhaTsApp Bot Created By 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟 ",
+  "description": "A WhatsApp bot maintained by Taha Khan",
   "main": "index.js",
   "engines": {
     "node": ">=20.x",
     "npm": ">=10.x"
   },
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DARKZONE-MD",
-    "stop": "pm2 stop DARKZONE-MD",
-    "restart": "pm2 restart DARKZONE-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name TAHA-MD",
+    "stop": "pm2 stop TAHA-MD",
+    "restart": "pm2 restart TAHA-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.9",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
-    "@vitalets/google-translate-api": "^9.2.1",    
+    "@vitalets/google-translate-api": "^9.2.1",
     "pino": "^9.7.0",
     "pm2": "^6.0.8",
     "util": "^0.12.5",
@@ -47,7 +47,7 @@
     "adm-zip": "^0.5.16",
     "cheerio": "^1.0.0-rc.12",
     "qrcode-terminal": "^0.12.0",
-    "yt-search":"latest",
+    "yt-search": "latest",
     "sequelize": "^6.37.7",
     "sqlite3": "^5.1.7"
   }
