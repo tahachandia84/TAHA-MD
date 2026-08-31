@@ -184,6 +184,11 @@
       "description": "Official WhatsApp channel name.",
       "required": false,
       "value": "TAHA MD"
+    },
+    "CHANNEL_ID": {
+      "description": "Official TAHA MD WhatsApp channel/newsletter ID.",
+      "required": false,
+      "value": "120363409838427367@newsletter"
     }
   },
   "buildpacks": [
