@@ -1,4 +1,4 @@
-// DARKZONE-MD 
+// TAHA-MD 
 var commands = [];
 
 function cmd(info, func) {
