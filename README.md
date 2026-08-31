@@ -9,7 +9,7 @@
 
 <div align="center">
   <h1 style="background-color:#4B0082; color:white; display:inline-block; padding:20px 40px; border-radius:10px; font-size:48px; font-family:Fira+Code; text-align:center;">
-    DARKZONE-MD WHATSAPP BOT
+    TAHA-MD WHATSAPP BOT
   </h1>
 </div>
 
@@ -50,7 +50,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=0000FF&background=FF69B4&center=true&vCenter=true&width=600&lines=⚡+ERFAN+MD+WHATSAPP+BOT;🔥+THE+MOST+ADVANCED+WHATSAPP+AI+BOT;💻+DEVELOPED+BY+ERFAN+AHMAD;🚀+ULTRA+FAST+PERFORMANCE;🌈+SECURE+🔒+STABLE+⚡+PREMIUM" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=0000FF&background=FF69B4&center=true&vCenter=true&width=600&lines=⚡+TAHA-MD+WHATSAPP+BOT;🔥+THE+MOST+ADVANCED+WHATSAPP+AI+BOT;💻+DEVELOPED+BY+TAHA+KHAN;🚀+ULTRA+FAST+PERFORMANCE;🌈+SECURE+🔒+STABLE+⚡+PREMIUM" alt="Typing Animation">
 </h1>
 
 ---
@@ -61,8 +61,8 @@
 
 `FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
 
-<a href="https://github.com/darkzonemd/DARKZONE-MD/fork">
-  <img title="DARKZONE-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
+<a href="https://github.com/darkzonemd/TAHA-MD/fork">
+  <img title="TAHA-MD" src="https://img.shields.io/badge/FORK-DARKZONE%20MD-FF00FF?style=for-the-badge&logo=stackshare">
 </a>
 
 ### 2. 𐃁GET SESSION ID𐃁
@@ -87,21 +87,21 @@
 
 ---
 
-### <h2 align="center">DARKZONE-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="center">TAHA-MD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
 
-<p align="center">Deploy your <strong>DARKZONE-MD Bot</strong> on any hosting service of your choice.</p>
+<p align="center">Deploy your <strong>TAHA-MD Bot</strong> on any hosting service of your choice.</p>
 
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/darkzonemd/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/darkzonemd/TAHA-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
        <td><a href="https://erfan-vps-site-def3a7aba559.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/VPS-SITE-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=darkzonemd/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=darkzonemd/TAHA-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/darkzonemd/TAHA-MD" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/Deploy-On%20Workflow-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -133,7 +133,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/DARKZONE-MD" target="_blank">
+      <a href="https://github.com/darkzonemd/TAHA-MD" target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -143,7 +143,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/darkzonemd/DARKZONE-MD/archive/refs/heads/main.zip" target="_blank">
+      <a href="https://github.com/darkzonemd/TAHA-MD/archive/refs/heads/main.zip" target="_blank">
         <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -175,7 +175,7 @@
 ## 📞 Contact & Support
 
 ### Project Owner: Erfan Ahmad
-<a href='https://wa.me/+923306137477?text=*HELLO+ERFAN+AHMAD+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+DARKZONE-MD+ʀᴇᴘᴏ!!*' target="_blank">
+<a href='https://wa.me/+923474771404?text=*HELLO+TAHA+KHAN+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+TAHA-MD+ʀᴇᴘᴏ!!*' target="_blank">
   <img alt='WhatsApp' src='https://img.shields.io/badge/Contact_Owner-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
@@ -183,7 +183,7 @@
 <a href="https://chat.whatsapp.com/IcV9YW0LOZbHFKOPZ59GBb?mode=gi_t">
   <img src="https://img.shields.io/badge/Join_Group-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Group"/>
 </a>
-<a href="https://whatsapp.com/channel/0029Vb5dDVO59PwTnL86j13J">
+<a href="https://whatsapp.com/channel/120363409838427367">
   <img src="https://img.shields.io/badge/Join_Channel-FF69B4?style=for-the-badge&logo=whatsapp" alt="WhatsApp Channel"/>
 </a>
 
@@ -192,3 +192,10 @@
 
 ---
 
+
+
+## TAHA MD channel
+
+- **Channel name:** TAHA MD
+- **Newsletter ID:** `120363409838427367@newsletter`
+- **Owner:** Taha Khan (`923474771404`)
