@@ -25,6 +25,7 @@ module.exports = {
     DEVELOPER_NUMBER: '923474771404@s.whatsapp.net',            // Developer's WhatsApp ID
     NEWSLETTER_ID: process.env.NEWSLETTER_ID || "120363409838427367@newsletter",
     CHANNEL_NAME: process.env.CHANNEL_NAME || "TAHA MD",
+    CHANNEL_ID: process.env.CHANNEL_ID || process.env.NEWSLETTER_ID || "120363409838427367@newsletter",
 
     // ===== AUTO-RESPONSE SETTINGS =====
     AUTO_REPLY: process.env.AUTO_REPLY || "false",              // Enable/disable auto-reply
